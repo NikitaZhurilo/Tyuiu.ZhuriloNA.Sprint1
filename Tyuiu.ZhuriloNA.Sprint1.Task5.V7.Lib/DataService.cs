@@ -5,7 +5,7 @@ namespace Tyuiu.ZhuriloNA.Sprint1.Task5.V7.Lib
     {
         public int AngleToHoursMinutes(double f)
         {
-            return (int)Math.Round(f * 2.0 / 60.0);
+            return (int)Math.Round(f * 2.0 / 60.0, 1);
         }
     }
 }

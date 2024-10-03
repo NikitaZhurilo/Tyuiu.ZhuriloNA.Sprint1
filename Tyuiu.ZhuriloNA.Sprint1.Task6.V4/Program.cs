@@ -21,7 +21,7 @@ namespace Tyuiu.ZhuriloNA.Sprint1.Task6.V4
             Console.WriteLine("* Исходные данные:                                                            *");
             Console.WriteLine("*******************************************************************************");
             string value;
-            Console.WriteLine("Введите строку : ");
+            Console.WriteLine("Введите строку: ");
             value = Convert.ToString(Console.ReadLine());
             Console.WriteLine("* Результат:                                                                  *");
             Console.WriteLine("*******************************************************************************");

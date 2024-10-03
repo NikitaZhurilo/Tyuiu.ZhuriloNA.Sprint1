@@ -15,7 +15,7 @@ namespace Tyuiu.ZhuriloNA.Sprint1.Task6.V4.Lib
             {
                 if (word.Contains("нн"))
                 {
-                    res += res + " " + word;
+                    res = res + " " + word;
                 }
                 
             }
